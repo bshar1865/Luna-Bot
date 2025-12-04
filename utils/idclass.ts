@@ -47,6 +47,7 @@ class IDClass {
     this.roleAdmin(),
     this.rolePaul(),
     this.roleCranci(),
+    this.roleOrdzy(),
     this.lunaBotRole()
   ];
 }
@@ -58,6 +59,7 @@ class IDClass {
     this.roleAdmin(),
     this.rolePaul(),
     this.roleCranci(),
+    this.roleOrdzy(),
     this.lunaBotRole(),
     this.roleContributor(),
     this.roleDesigner(),
